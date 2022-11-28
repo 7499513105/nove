@@ -1,0 +1,2 @@
+# novex
+a portfolio web
